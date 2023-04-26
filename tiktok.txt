@@ -1,0 +1,469 @@
+TikTok CEO Shou Chew on Its Future — and What Makes Its Algorithm Different | Live at 
+TED2023 - YouTube
+https://www.youtube.com/watch?v=7zC8-06198g
+Transcript:
+(00:00) it's very nice to have you here let's see first of all you know congratulations you really 
+put off something remarkable on on that grilling you achieved something that very few 
+people do which was you pulled off a kind of a bipartisan consensus in U.S politics was great 
+you know the bad news was that that consensus largely seemed to be we must ban tick tock 
+so we're going to come to that in a bit and I'm curious about but before we before we go 
+there we need to know about you um you you seem to me like a remarkable
+(00:33) person I want to know a bit of your story and how you came to tick tock in the in the 
+first place okay thank you Chris before we do that can I just check I need to know my audience 
+how many of you here use tick tock just oh thank you for those who don't the Wi-Fi is free 
+so that's another question which is how many of you here have had your lives touched 
+through Tick Tock through your kids and other people in your lives I mean it's oh that's great 
+to see it it's basically if you're alive you have
+(01:04) had some kind of contact with with Tick Tock at this point Thank you tell us about you 
+so my name is show and I'm from Singapore roughly 10 years ago I met with two Engineers 
+who were building a product and the idea behind this was to build a product that 
+recommended content to people not based on who they knew which was uh if you think 
+about it 10 years ago it was all the social graph was all in the rage and the idea was you know 
+your content and the fee that you saw should be based on people that you knew you know 
+about 10
+(01:38) years ago these two Engineers thought about something different which is instead of 
+showing you what you what you know instead of showing you people you knew why don't 
+we show you content that you liked and that's sort of the Genesis and the birth of um you 
+know the early iterations of tick tock and about five years ago with the Advent of um you 
+know 4G short video mobile phone penetration Tick Tock was born and a couple of years ago 
+you know I had the opportunity to run this company and it still excites me
+(02:08) every single day so I want to dig in a little more into this about what was it that made 
+this takeoff so explicit because the the language I hear from people who you know spent time 
+on it it's sort of like I mean it it is a different level of addiction to other uh media out there 
+and I don't necessarily mean this in a good way we'll be coming on to it there's good and 
+bad things about this type of addiction but it's the feeling that within a couple days of of uh 
+experience of tick tock it knows you and
+(02:38) it and it surprises you with things that you didn't know you were going to be interested 
+in but you are how is it really just instead of the social graph what are these algorithms doing 
+the I think to describe this uh to begin to answer your question we have to talk about the 
+mission of the company now the mission is to inspire creativity and to bring joy and I think 
+you know missions for companies like ours is really important because you have product 
+managers working on the product every single day and they need to have a
+(03:09) North star you know something to sort of work towards together now based on this 
+Mission our vision is to provide three things to our users we want to provide a window to 
+discover and I'll talk about Discovery you talked about this in a second we want to give them 
+a canvas to create which is going to be really exciting with new technologies in AI that's going 
+to help people you know help people create new things and the final thing is bridges for 
+people to connect so that's sort of the vision of what
+(03:37) we're trying to build now what really makes Tick Tock very unique and very different 
+is the whole discovery engine behind us so there are earlier apps that I have a lot of respect 
+for but they were built for a different purpose you know for example in the era of search you 
+know there was an app that was built for people who wanted to search things that was so 
+that it's more easily found and then in the era of social graphs it was about connecting people 
+and their followers now what we have done is that
+(04:07) we are based on our machine learning algorithms we're showing people what they 
+like and what this means is that we have given the everyday person a platform to be 
+discovered if you have talent it is very very easy to get discovered on Tick Tock and I'll just 
+give you one one example of this the biggest Creator on Tick Tock is a guy called kabi cubby 
+was from Senegal he lives in Italy he was a factory worker um he you know for the longest 
+time didn't even speak in any of his videos but what he did was you know he had
+(04:39) Talent he was funny he had a good expression he had creativity so he kept posting 
+and today he has 160 million followers on our platform so every single day we hear stories 
+like that you know businesses people with talent and I think it's very it's very freeing to have 
+a platform where as long as you have talent you're going to be hurt and you have the chance 
+to succeed and that's what we're providing to our users so this is this is the amazing thing to 
+me like we've most of us have grown
+(05:07) grown up with say Network television for where for decades you've had thousands of 
+brilliant creative people toiling in the trenches trying to imagine stuff that will be amazing for 
+an audience and none of them ever remotely came up with anything that looked like many 
+of your creators so so the these algorithms by just by observing people's behavior and what 
+they look like have discovered things that thousands of brilliant humans never discovered tell 
+me some of the things that it is looking at so obvious things
+(05:41) like if someone presses like or stays on a video for a long time that gives you a clue 
+more like that but is it subject matter what what what are the what are the array of things that 
+you have noticed that you can actually track that that provide useful Clues the I'm going to 
+simplify this a lot but the machine learning the recommendation algorithm is really just math 
+so for example if you if you like videos one two three and four and I like videos one two three 
+and five maybe he liked videos one two three
+(06:11) and six now what's going to happen is because we like one two three at the same 
+time he's going to be shown four five six and so are we and you can think about this repeated 
+at scale in real time across more than a billion people that's basically what it is is math and of 
+course you know it Ai and machine learning has allowed this to be done at a very very big 
+scale and what we have seen the result of this is that they learned the interest signals that 
+people exhibit very quickly and shows you content that's really relevant for you
+(06:41) in a very in a very quick way now so it's a form of collaborative filtering from what 
+you're saying that the theory behind it is that these humans are weird people we don't really 
+know what they're interested in but if if we see that one human is interested with an overlap 
+of someone else chances are you know you can you can make use of the other pieces that 
+are in that overlapped humans repertoire to to to feed to feed them and they'll be surprised 
+but the reason they like it is because their power also
+(07:09) liked it it is pattern recognition based on your interest signals and I think the other 
+thing here is that we don't actually ask you 20 questions on whether you like a piece of content 
+you know what are your interests we don't do that we build that experience organically into 
+the app experience so you are voting with your thumbs you know by watching a video you 
+know by swiping it by liking it by sharing it you are basically exhibiting interest signals and 
+what it does mathematically is to take those signals put it in a formula
+(07:39) and then matches it through pattern recognition that's basically the idea behind it I 
+mean lots of startups have tried to use these these types of techniques I'm wondering what 
+else played a role early on I mean how big a deal was it that from the get-go you were 
+optimizing for smartphones so that videos were shot in portrait format and they and they 
+were short was that was that an early distinguishing thing that mattered I think we were the 
+first to really try this at scale um you know the recommendation algorithm
+(08:09) is a very important reason as to why the the platform is so popular among so many 
+people but beyond that you know you mentioned um the format itself so we talked about 
+the vision of the company which is to have a window to discover and if you sort of just open 
+that for the first time you see that it takes up your whole screen so that's the window that we 
+want you can imagine a lot of people using that window to discover new things in their lives 
+then you know through this recommendation algorithm we have found
+(08:39) that it connects people together people find communities and I've heard so many 
+stories of people who have found their communities because of the content that they're 
+posting now I'll give you an example I was in DC recently and I met with a bunch of creators 
+I heard yes and uh so one of them was sitting next to me at the dinner his name is Samuel he 
+runs a restaurant in Phoenix Arizona and it's a taco restaurant he told me he has never done 
+this before first you know venture he started posting all this content on
+(09:10) Tick Tock and you know I saw his content it looks I was hungry after looking at it it's 
+just great you know content and he's generated so much interest in his business the last year 
+he made something like a million dollars in Revenue just via Tick Tock One restaurant and 
+again and again I hear these stories you know by connecting people together by giving 
+people the window to discover we have given many small businesses and many people your 
+common person a voice that they will never otherwise have and I
+(09:39) think that's the power of the platform so you definitely have identified early just how 
+you know we're social creatures we need affirmation I've heard a story and you can tell me 
+whether true or not that one of the keys to your early liftoff was that you wanted to persuade 
+creators who were trying out Tick Tock that this was a platform where you know they would 
+get response early on when you're trying to grow something the numbers aren't there for 
+response so you had the brilliant idea of goosing those
+(10:09) numbers a bit basically finding ways to give people you know a bigger sense of like 
+more likes more engagement than was actually the case by using AI agents somehow in the 
+in the process is that a brilliant idea or is that or is that just a myth I I would uh I would I would 
+describe it in a different way so there are other platforms that exist you know before Tick Tock 
+and if you think about those platforms you sort of have to be famous already in order to get 
+followers because the way it's built is that
+(10:38) people come and follow people and if you don't if you are not really famous the 
+chances that you get discovered are very very low now what we have done again because of 
+the difference in the way we're recommending content is that we've given anyone any single 
+person with enough Talent a stage to be able to be discovered and I think that actually is the 
+single probably the most important thing contributing to the growth of the platform and 
+again and again you will hear stories from people who use the
+(11:05) platform who post regularly on it that if they have something they want to say the 
+platform gives them the chance and the stage to connect with their audience in a way that I 
+think no other product in the past has ever offered them so I'm just trying to play back what 
+what use what you said there you said you were describing a different way what I what I said 
+is is it then the case that like to give someone a decent chance someone who's brilliant but 
+doesn't come with any followers initially that you you have you've got
+(11:34) some technique to identify talent and that you will you will almost encourage them 
+you will you will give them some kind of um uh you know artificially increase the number of 
+followers or likes or whatever that they have so that others are encouraged to go wow there's 
+something there and so forth like it's this idea of critical mass that kind of every entrepreneur 
+every party planner kind of knows about of no no this is the hot place in town everyone come 
+and that is how you actually gain critical mass
+(11:58) we want to make sure that um every person who posts a video is given an an equal 
+chance to be able to have some audience to begin with but this idea that you are maybe 
+alluding to that we can get people to like something it doesn't really work like that but can 
+you get could you get AI agents to like something could you see the network work with extra 
+AI agents that could kind of you know give someone early encouragement ultimately what 
+the machine does is it recognizes people's interests so if you post something
+(12:30) that's not interesting to a lot of people even if you gave it a lot of exposure you're not 
+going to get the virality that you want whereas so it's a lot of you know there is no uh there's 
+no push here you know it's not like you can go and push something because I like Chris you 
+know I'm going to push your content and it doesn't work like that you got to have a message 
+that resonates with people and if it does then it will automatically just have the virality itself 
+that's the beauty of user
+(12:56) generator content it's it's not something that can be engineered or over thought you 
+know it really is something that has to resonate with the audience and if it does then it goes 
+viral I'm not speaking privately with an investor who knows your company quite quite well um 
+who who said that actually the the the level of sophistication of the algorithms you have going 
+is is just another order of magnitude to what competitors like you know Facebook or YouTube 
+have going um is that is that just hypo or do you
+(13:26) do you really believe you like how complex are these algorithms well I think in terms 
+of complexity there are many companies with a lot of resources and a lot of talent you know 
+they will figure out the even the complex the most complex algorithms I think what is very 
+different is your mission of your company how you started the company like I said you know 
+we started with this idea that this was the main use case the most important use case is you 
+come and you get to see recommended content now for some other
+(13:56) apps out there they are very significant and have a lot of users they're built for a 
+different original purpose and if you're built for something different then your users are used 
+to that because the community comes in and they expect that sort of experience so I think 
+the pivot away from that it's not it's not really just a matter of engineering and algorithms it's 
+a matter of what your company is built to begin with which is why I started this by saying you 
+need to have a vision you need to have a mission
+(14:22) and that's the North Star where you you can't just shift it halfway right and is it fair to 
+say that because your start Point has been interest algorithms rather than social off algorithms 
+you've been able to avoid some of the worst of the sort of the filter bubbles that have 
+happened in other social media where you have tribes kind of declaring warning each other 
+effectively and and so much of the noise and and energy is is around that do you believe that 
+you've largely avoided that on on Tick Tock the
+(14:49) diversity of content that our users see is very key you know to in order for the discovery 
+and the mission is to discover so sorry the vision is to discover so in order to facilitate that it 
+is very important to us that what the users see is the diversity of content um now generally 
+speaking you know there are certain issues that you mentioned that the industry faces you 
+know there are some bad actors who come on the internet they post bad content you know 
+our approach is that we have very clear Community guidelines we're very
+(15:21) transparent about what is allowed and what is not allowed on our platform no 
+Executives make any ad hoc decisions and based on that we have built a team that is tens of 
+thousands of people plus machines in order to identify content that is bad and actively and 
+proactively remove it from the platform talk about what some of those key guidelines are we 
+have it published on our website um we just in March we just um iterated a new version to 
+make it more readable so there are many things like for example no pornography clearly no 
+child sexual
+(15:55) abuse material and and other bad things no violence for example we also make it 
+clear that there's a differentiated experience if you're below 18 years old so if you're below 
+18 years so for example your entire app experience is actually more restricted we don't allow 
+as an example users below 16 by default to go viral we don't allow that if you're below 16 we 
+don't allow you to use and the instant messaging feature in app if you're below 18 we don't 
+allow you to use the live
+(16:25) streaming features and of course we give parents a whole set of tools to control their 
+teenagers experience as well but how do you how do you know the age of your users in our 
+industry we do we rely mainly on something called age gating which is when you sign up for 
+the app for the first time and we ask you for the age now beyond that we also have we also 
+have built tools to go through your public profile for example when you post a video we try 
+and match what the age that you said with the video that you just posted now there are 
+questions of
+(16:56) can we do more and that question is always has for every company by the way in our 
+industry has to be balanced with privacy now if you know for example you know we scan the 
+faces of every single user then I you know we will significantly increase the ability to tell their 
+age but we will also significantly increase the amount of data that we collect on you now we 
+don't want to collect data we don't want to scan data on your face to collect that so that 
+balance has to be maintained and it's a challenge that we are working
+(17:25) through together with you know industry together with The Regulators as well so look 
+one thing that is is unquestionable is that you have created a platform for literally millions of 
+people who never thought they were going to be a content creator you've given them an 
+audience I'd actually like to hear from you one other favorite example of someone who Tick 
+Tock has given an audience to that never had that before I think um you know so when again 
+you know when I meet with when I travel around the world I meet it for a whole bunch of
+(17:53) creators on our platform I was in South Korea just yesterday and before that you know 
+I met with um before that I met with a bunch of people don't expect for example teachers 
+there is a English teacher from Arkansas my name is Claudine and I met her in person she 
+uses her platform to reach out to students you know there is another teacher called chemical 
+kin and chemical Kim teaches chemistry what she does is she uses our platform to reach out 
+to a much broader student based than she has in her classroom and they're both very very
+(18:28) popular you know in fact what we have realized is that stem content has over 116 
+billion views on our platform globally and is so significant in a year cumulative 160 billion is 
+so significant that in the US we have started testing creating a feed just for stem content just 
+for stamp content I've been using it for a while and I learned something new you want to 
+know what it is apparently if you flip an egg you know on your tray the egg will last longer 
+it's signs there's a whole video on this you know I learned this on Tech talk you
+(19:06) can search for this you want to know something else about an egg if you put it in just 
+one hand and squeeze it as hard as you can it will never break yes I think I read about that 
+too it's not somewhere we can search for it but look here's the flip side to all this amazingness 
+and it's really it's honestly this is the key thing that I I want to have a an honest conversation 
+with you because it's such an important issue this question of human addiction you know we 
+are animals with a prefrontal cortex
+(19:42) that's how I think of us we have these addictive instincts that that go back millions of 
+years and and and we often are in the mode of trying to modulate our own you know Behavior 
+it turns out that the internet is incredibly good at activating our animal cells and getting them 
+so damn excited and and your company the company you've built is better at it than any 
+other company on the planet I think so what are the risks of this I mean how from from a 
+company point of view for example it's in your interest to have
+(20:22) people on there as long as possible so some would say is the first pass you want 
+people to be addicted as long as possible that's how advertising money will flow and so forth 
+and that's how your creators will be delighted what is too much I don't actually agree with 
+that I you know as a company our goal is not to optimize and maximize time spent it is not 
+in fact in order to address people spending too much time on our platform we have done a 
+number of things I was just speaking with uh some of your
+(20:54) colleagues backstage one of them Tony you know she has encountered this as well if 
+you spend too much time on our platform we will proactively send you videos to tell you to 
+get off the platform we also we will and depending on the time of the day if it's late at night 
+it will come sooner we have also building tools the limit if you below 18 years old by default 
+we set a 16 minute default time limit how many 60 Minutes six hours and we've given parents 
+tools and yourself tools if you go to settings you can set your own time limit we've
+(21:25) given parents tools so that you can pair if for the parents who don't know this go to 
+settings family pairing you can pair your phone with your teenager's phone and set the time 
+limit and we really encourage parents to have these conversations with their teenagers or 
+what is the right amount of screen time I think there's a healthy relationship that you should 
+have with your screen and as a business you know we believe that that balance needs to be
+met so it's not true that we just want to maximize a time span if you if you were
+(21:52) advising parents here what time they should actually recommend to their teenagers 
+what do you think is the right setting well 60 minutes we did not come up with it ourselves 
+so I went to the digital Wellness Lab at the Boston Children's Hospital and you know we had 
+this conversation with them and 16 minutes was the recommendation that they gave to us 
+which is why we built this into the app now so 60 Minutes ticket for what it is you know it's 
+something that you know we've had some discussions of experts
+(22:16) but I think for all parents here it is very important to have these conversations with 
+your teenage children and you know help them help them develop a healthy relationship with 
+screens I think we live in an age where it's completely inevitable that we're going to interact 
+with screens and you know digital content but I I think we should develop healthy habits early 
+on in life and that's something I would encourage I'm curious to ask the audience um of um 
+which of you have ever had that video on Tick Tock appear
+(22:46) saying come on I mean okay so maybe a third of the audience seem to be active tiptock users and about 20 people maybe put their hands up there so it's it are you sure that 
+like it feels to me like this this is a great this is a great thing to have and um but are you isn't 
+there always going to be a Temptation in any given quarter or whatever to just push it a bit 
+at the boundary and just dial back a bit on that so that you can hit Revenue goals etc etc is it 
+is it are you saying that this is used scrupulously I I think um
+(23:24) you know in terms even if you think about it from a commercial point of view it is 
+always best when your customers have a very healthy relationship with your product it's 
+always best when it's healthy so if you think about very short-term retention maybe but I 
+don't think that's not the way we think about it if you think about it from a longer term 
+perspective what you really want to have is a healthy relationship you know you don't want 
+people to be you know to develop with very unhealthy habits and
+(23:49) then at some point they're going to drop it right no so I think everything in moderation 
+there's a there's a claim out there that um in China there's a much more rigorous standards 
+imposed on the amount of time that children especially can spend on the um you know that 
+is uh unfortunately a a very um it's a misconception so that experience that is being 
+mentioned for tawin which is a different app is for an under 14 year old experience now if you 
+compare that in the United States we have under 13 experience in the US it's
+(24:24) only available in the US it's not available here in Canada in Canada we just don't allow 
+it if you look at the under 13 experience in the U.S it's much more restricted than the under 
+14 experience in China it's so restrictive that every single piece of content is vetted by our 
+third party child safety expert and we don't allow any under 13s in the U.
+(24:49) S to publish we don't allow them to post and we don't allow them to use a lot of 
+features so I think that that report I've seen that report too it's not doing a fair comparison 
+what do you make of this issue you know in a lot of your you've got these millions of content 
+creators and all of them in a sense are in a race for attention and that race can pull them in 
+certain directions so for example um teenage girls on Tick Tock sometimes people worry that 
+that to win attention they've discovered that by being more sexual that they can gain extra 
+viewers
+(25:20) does is this a concern is there anything you can do about this we address this in our 
+community guidelines as well um you know if you look at sort of the sexualized content on 
+our guidelines if you're below a certain age you know for certain team themes that are mature 
+we actually remove that from your experience again I come back to this you know we want 
+to have a safe platform in fact at my congressional hearing I mean four commitments to our
+users and to the politicians in the US and one of the first one is that we take safety
+(25:51) especially for teenagers extremely seriously and we will continue to prioritize that you 
+know I believe that we need to give our teenage users and our users in general a very safe 
+experience because if we don't do that then we cannot the mission is to inspire creativity and 
+to bring joy right if they don't feel safe I can not fulfill my mission so it's all very organic to 
+me as a business to make sure I do that but in the strange interacting world of human 
+psychology and so forth weird memes can take off I mean you had this
+(26:22) outbreak a couple years back of these devious licks where kids were competing with 
+each other to do vandalism in schools and you know get lots of followers from it how on 
+Earth do you battle something like that um so dangerous challenges are not allowed on our 
+platform it's uh if you look at our guidelines we it's violative we proactively invest resources 
+to identify them and remove them from our platform in fact if you search for Dangerous 
+challenges on our platform today we will redirect you to a safety
+(26:50) resource page and we actually worked with some creators as well to come up with 
+campaigns and this is another campaign it's the stop think decide before you add campaign 
+where we work with the creators to produce videos to explain to people that some of things 
+are dangerous please don't do it and we post those videos actively on our on our platform 
+as well that's cool and you've got you've got lots of employees I mean how many employees 
+do you have who are specifically looking at these content
+(27:18) moderation things or is that the wrong question is it are they mostly identified by AI 
+initially and then and then you have a group who are overseeing and making the final decision 
+um the group is based in Ireland um and um it's a lot of people it's tens of thousands of 
+people tens of tens of thousands it's a huge it's one of the most important cost items of my 
+P L and I think it's completely worth it now most of the moderation has to be done by 
+machines the machines are good they're
+(27:45) quite good but they're not as good as you know they're not perfect at this point so 
+you have to complement them with a lot of human beings today and I think by the way a lot 
+of the progress in AI in general is making that kind of content moderation capabilities a lot 
+better so we're gonna get more precise you know we're going to get more specific and it's 
+going to get you know is going to be able to handle larger scale and that's something I think 
+you know that I'm personally looking forward to
+(28:14) what about this perceived huge downside of use of certainly Instagram I think Tick 
+Tock as well where people worry that you are amplifying insecurities especially of of teenagers 
+and perhaps especially teenage girls that you see they see these amazing people on there 
+doing amazing things they feel inadequate there's all these reported cases of of depression 
+insecurity suicide and so forth I I take this extremely seriously um so again in our guidelines 
+for certain themes that we think are mature um and not suitable for teenagers we
+(28:51) actually proactively remove it from their experience um at the same time if you search 
+certain terms we will make sure that you get redirected to a resource safety page now we're 
+always working with experts to understand some of these new trends that could emerge and 
+proactively try to manage and try to manage them if that makes sense now this is a problem 
+that predates us the predates tick tock it actually predates the internet you know it's um but 
+it's our responsibility to make sure that we invest enough to
+(29:20) understand and to address the concerns to keep the experience as safe as possible 
+for as many people as possible now in Congress the the main concern seem to be not so 
+much what we've talked about but um data the data of users the fact that you're owned by 
+bite dance Chinese company and the concern that at any moment um Chinese government 
+might require or ask for data and in fact there have been instances where I think you've you've 
+confirmed that that some data of journalists on the platform was was made
+(29:52) available to bite dancers engineers and from the who who knows what now your your 
+response to this was to have this you know project Texas where you're moving data to be 
+controlled by Oracle here in the US can you can you can you talk about that project and and 
+why if you believe it so why we should not worry so much about this issue I will say a couple 
+of things about this if you don't mind the first thing I would say is that the internet is built on 
+global interoperability and we are not the only company that relies on a global talent
+(30:24) pool to make our products as good as technology is a very collaborative effort you 
+know I think many people here would say the same thing so we are not the first company to 
+have engineers in all countries including in China we're not the first one now I understand 
+some of these concerns so you know the data access by employees is not data accessed by 
+government this is very different and there's a clear difference in this but we hear the concerns 
+that are raised in the United States we did not try to avoid you know
+(30:54) discussing or we did not try to argue our way out of it what we did was we built an 
+unprecedented project where we localized American data to be stored on American soil by 
+an American company overseen by American Personnel so this this kind of protection firm 
+for American data is beyond what any other company in our industry has ever done it's well 
+money is not the only issue here but it's very expensive to build something like that and more 
+importantly you know we are basically localizing data in a way that no other
+(31:28) company has done so we need to be very careful that whilst we are pursuing data 
+what we call digital sovereignty in the us and we're also doing a version of this in Europe that 
+we don't balkanize the internet now we are the first to do it and I expect that you know other 
+companies are probably looking at this and trying to figure out how you balance between 
+protecting protected data you know to make sure that everybody feels secure about it while 
+at the same time allowing for interoperability to continue to happen because that's what
+(31:57) makes technology and the internet so great that's something that we are how far are 
+you along that Journey with project Texas we are very very far along today when when when 
+will there be a clear you know here it is it's done as far well this data is protected today by 
+default all new U.S data is already stored in the Oracle Cloud infrastructure so it's in this 
+protected U.
+(32:21) S environment that we talked about in the United States we still have some Legacy 
+data to delay eat in our own service in Virginia and in Singapore our data has never been 
+stored in China by the way that deletion is a very big engineering effort so as we said as I said 
+that the hearing is going to take me it's going to take us a while to delete them but I expect 
+it to be done this year foreign how much power do you have over your own ability to control 
+certain things so for for example suppose that for whatever reason the Chinese government 
+was to look at an
+(32:55) upcoming U.S election and say you know what we would like this party to win let's say 
+or we would like Civil War to break out or whatever how and we could do this by amplifying 
+the content of certain troublemaking disturbing people causing uncertainty spreading this 
+information Etc how you were required via bite dance to do this like first of all is there is there 
+a pathway where theoretically that's possible um what what do you what's your personal Line 
+in the Sand on on this so the during the Congressional hearing I made
+(33:33) four commitments uh we talked about the first one which is safety the third one is to 
+keep Tick Tock a place of freedom of expression by the way if you go on Tick Tock today you 
+can search for anything you want as long as it doesn't violate our community guidelines and 
+to keep it free from any government manipulation and the fourth one is transparency and 
+third-party monitoring so the way we are trying to address this concern is an unprecedented 
+amount of transparency what do I mean by this we're actually allowing third-party
+(34:02) reviewers to come in and review our source code I don't know any other company 
+that does this by the way um just so because everything as you know is driven by code so to 
+allow someone else to review the source code is to give this a significant amount of 
+transparency to ensure that the design areas that you described there's Kylie hypothetical 
+cannot happen on our platform now at the same time we are releasing more research tools 
+for researchers so that they can study the output so you know the source code is
+(34:31) the input we are also allowing researchers to study the output which is the content on 
+our platform I think the easiest way to sort of defend this office is transparency you know we 
+give people access to to monitor us and we can just make it very very transparent and that's 
+our approach to the problem so you will say directly to this group that the scenario I talked 
+about of Chinese theoretical Chinese government in interference in an American election you 
+can say that will not happen I can say that we are building all the
+(35:02) tools to to prevent any of these actions from happening um and I'm very confident 
+that with an unprecedented amount of transparency that we're giving on the platform we can 
+hide we can reduce this risk to as low as zero as possible to a slow a zero as possible to as 
+close to zero as possible as close to zero as possible that's fairly reassuring fairly um I mean 
+how would the world know and what would like if you discovered this or you thought you 
+had to do it is this is this a align in the sand for you like are you
+(35:42) at a situate you would not let the company that you know now and that you are 
+running do this absolutely that's the reason why we're letting third parties monitor them 
+because if they find out you know yeah they will disclose this we also have transparency 
+reports by the way where we talked about talk about a whole bunch of things the content 
+that we remove you know that violates our guidelines government requests you know it's all 
+published online all you have to do is search for it so you're super compelling and
+(36:07) likable as a CEO I have to say and I I would like to as we wrap this up I'd like to give 
+you a chance just to paint like what's the vision what as you look at what Tick Tock could be 
+let's let's move the clock out say five five years from now what what how should we think 
+about your contribution to our Collective future I think it's still down to division that we have 
+so in terms of the window of Discovery I think there's a huge benefit to the world when people 
+can discover new things you know
+(36:37) people think that Tick Tock is all about dancing and singing and there's nothing wrong 
+with that because it's super fun there's still a lot of that but we're seeing science content stem 
+content listening have you heard about book talk it's a it's a viral Trend that talks about books 
+and encourages people to read that book talk has 120 billion views globally 120 billion billion 
+with a B people are learning how to cook people are learning people are learning about 
+science people are learning how to
+(37:04) golf well people are watching videos on golfing I guess I haven't gotten better and I 
+think there's a huge opportunity here on Discovery and giving the everyday person a voice if 
+you talk to our creators you know a lot of people will tell you this again and again that before 
+Tick Tock they they would never have been discovered and we have given them the platform 
+to do that it's important to maintain that we talk about creation you know there's all these 
+new technology coming in with with AI generative content that allows that will
+(37:38) help people create even more creative content I think there's going to be a 
+collaboration between and I think there's a speaker who's going to talk about this within 
+people in AI where they can unleash their creativity in a different way you know like for 
+example I'm terrible at drawing personally but if if I had somebody I had to help me then 
+maybe I can express myself even better then we talk about bridges to connect and connecting 
+people in the communities together this could be products this could be
+(38:04) Commerce five million small business 5 million businesses in the US benefit from Tick 
+Tock today I think we can get that number to a much higher number and of course if you 
+look around the world including in Canada that number is going to be massive so I think 
+these are the biggest opportunities that we have and it's it's really very exciting so courtesy 
+of of your experience in Congress you actually became a bit of a Tick-Tock star yourself I 
+think um some of your videos have gone viral how about you've got your phone with you
+(38:33) little Tick Tock video right now if the audience doesn't do this if you don't mind we're 
+just going to do a selfie together how's that okay so why don't we just say hi hi hello from 
+Ted all right thank you I hope it goes viral if that one goes viral I think I've given up on your 
+algorithm actually I think it's gonna it's gonna take better um you're one of the most influential 
+and powerful people in the world whether you know it or not and I really appreciate you 
+coming and sharing your vision I
+(39:09) really really hope the upside of what you're talking about comes about thank you so 
+much thank you thank you thank you thank you thank you thank you
