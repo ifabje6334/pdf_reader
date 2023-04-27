@@ -1,0 +1,137 @@
+<MyRoot>:
+    orientation: "vertical"
+
+    # Create the input fields
+    BoxLayout:
+        orientation: "vertical"
+        size_hint_y: None
+        height: self.minimum_height
+        padding: 20
+        GridLayout:
+            cols: 3
+            spacing: 5
+            size_hint_y: None
+            height: self.minimum_height
+
+            TextInput:
+                id: input_box_1_1
+                size_hint_y: None
+                height: 30
+                multiline: False
+            TextInput:
+                id: input_box_1_2
+                size_hint_y: None
+                height: 30
+                multiline: False
+            TextInput:
+                id: input_box_1_3
+                size_hint_y: None
+                height: 30
+                multiline: False
+
+            TextInput:
+                id: input_box_2_1
+                size_hint_y: None
+                height: 30
+                multiline: False
+            TextInput:
+                id: input_box_2_2
+                size_hint_y: None
+                height: 30
+                multiline: False
+            TextInput:
+                id: input_box_2_3
+                size_hint_y: None
+                height: 30
+                multiline: False
+
+            TextInput:
+                id: input_box_3_1
+                size_hint_y: None
+                height: 30
+                multiline: False
+            TextInput:
+                id: input_box_3_2
+                size_hint_y: None
+                height: 30
+                multiline: False
+            TextInput:
+                id: input_box_3_3
+                size_hint_y: None
+                height: 30
+                multiline: False
+
+            TextInput:
+                id: input_box_4_1
+                size_hint_y: None
+                height: 30
+                multiline: False
+            TextInput:
+                id: input_box_4_2
+                size_hint_y: None
+                height: 30
+                multiline: False
+            TextInput:
+                id: input_box_4_3
+                size_hint_y: None
+                height: 30
+                multiline: False
+
+            TextInput:
+                id: input_box_5_1
+                size_hint_y: None
+                height: 30
+                multiline: False
+            TextInput:
+                id: input_box_5_2
+                size_hint_y: None
+                height: 30
+                multiline: False
+            TextInput:
+                id: input_box_5_3
+                size_hint_y: None
+                height: 30
+                multiline: False         
+
+    # Create the button to predict the next numbers
+    Button:
+        text: "Predict Next Numbers"
+        size_hint_y: None
+        height: 50
+        on_press: root.predict()
+
+    # Create the output label for the predicted numbers
+    BoxLayout:
+        orientation: "vertical"
+        padding: 20
+        GridLayout:
+            cols: 1
+            spacing: 5
+            size_hint_y: None
+            height: self.minimum_height
+
+            Label:
+                id: output_box_1
+                size_hint_y: None
+                height: 30
+                multiline: False
+            Label:
+                id: output_box_2
+                size_hint_y: None
+                height: 30
+                multiline: False
+            Label:
+                id: output_box_3
+                size_hint_y: None
+                height: 30
+                multiline: False
+            Label:
+                id: output_box_4
+                size_hint_y: None
+                height: 30
+                multiline: False
+            Label:
+                id: output_box_5
+                size_hint_y: None
+                height: 30
+                multiline: False
